@@ -1,0 +1,11 @@
+<svg width="31" height="31" viewBox="0 0 31 31" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        calltouch_optimizer-32
+    </title>
+    <g fill-rule="nonzero" fill="none">
+        <path d="M14 7V0h3v7h-3zm9 0V3h-3v4h3zM11 7V4.098H8V7h3z" fill="#FFF"/>
+        <path fill="#FFF" d="M0 13.098h3v8.9H0z"/>
+        <path fill="#FFF" d="M28 13.098h3v8.9h-3z"/>
+        <path d="M5 10v15.897A13.336 13.336 0 0 0 15.5 31c4.261 0 8.053-1.997 10.5-5.103V10H5zm5.5 10a2.499 2.499 0 1 1 0-5 2.5 2.5 0 0 1 0 5zm7.5 6h-5v-3h5v3zm4-7h-3v-3h3v3z" fill="#1EB0CD"/>
+    </g>
+</svg>

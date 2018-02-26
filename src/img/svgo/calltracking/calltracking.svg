@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="120px" viewBox="0 0 112 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>calltouch_calltracking-128</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="calltouch_calltracking" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-204.000000, -226.000000)">
+        <g id="calltouch_calltracking-128" transform="translate(204.000000, 226.000000)" fill-rule="nonzero">
+            <path d="M81,64 C81,77.785 69.785,89 56,89 C45.77,89 36.959,82.82 33.094,74 L22.464,74 C26.777,88.44 40.176,99 56,99 C75.299,99 91,83.299 91,64 C91,50.066 82.814,38.012 71,32.384 L71,44.014 C77.068,48.579 81,55.839 81,64 Z M71,10.049 L71,21.58 C88.458,27.772 101,44.445 101,64 C101,88.813 80.813,109 56,109 C34.625,109 16.695,94.015 12.134,74 L0.908,74 C5.625,100.153 28.487,120 56,120 C86.928,120 112,94.928 112,64 C112,38.271 94.641,16.608 71,10.049 Z" id="Shape" fill="#3CB0CB"></path>
+            <path d="M51,0 L51,8.233 C22.459,10.773 0.002,34.804 0,64 L31,64 C31,51.927 39.603,41.826 51,39.503 L51,64 C51,66.761 53.24,69 56,69 C58.76,69 61,66.761 61,64 L61,0 L51,0 Z" id="Shape" fill="#1F282C"></path>
+        </g>
+    </g>
+</svg>

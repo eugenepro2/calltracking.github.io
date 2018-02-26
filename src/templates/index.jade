@@ -1,0 +1,16 @@
+---
+title: Index Page
+---
+extends layouts/_layout
+block content
+  .container
+    .row
+      .col-xs-12 
+        .breadcrumbs
+          a(href="#") Главная
+          a(href="#") Коллтрекинг
+      .col-sm-2
+        include partials/_aside
+      .col-sm-9
+        .calltracking
+          include calltracking/intro

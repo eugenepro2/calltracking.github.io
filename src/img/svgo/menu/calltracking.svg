@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="30px" viewBox="0 0 28 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>calltouch_calltracking-32</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="calltouch_calltracking+product_dropdown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-138.000000, -235.000000)">
+        <g id="product_menu_dropdow" transform="translate(112.000000, 140.000000)" fill-rule="nonzero">
+            <g id="calltouch_calltracking-32" transform="translate(25.000000, 95.000000)">
+                <path d="M14.984,21 C13.357,21 11.923,20.207 11.009,19 L7.573,19 C8.763,21.928 11.634,24 14.984,24 C19.395,24 22.984,20.411 22.984,16 C22.984,13.053 21.378,10.48 19,9.092 L19,13.05 C19.611,13.879 19.984,14.894 19.984,16 C19.984,18.757 17.741,21 14.984,21 Z M19,2.592 L19,5.77 C23.083,7.378 25.984,11.353 25.984,16 C25.984,22.065 21.049,27 14.984,27 C9.96,27 5.721,23.61 4.41,19 L1.314,19 C2.689,25.289 8.283,30 14.984,30 C22.716,30 28.984,23.732 28.984,16 C28.984,9.664 24.773,4.318 19,2.592 Z" id="Shape" fill="#1EB0CD"></path>
+                <path d="M14,0 L14,2.05 C6.741,2.559 0.985,8.611 0.984,16 L9.984,16 C9.984,13.58 11.713,11.559 14,11.1 L14,16 C14,16.553 14.448,17 15,17 C15.552,17 16,16.553 16,16 L16,0 L14,0 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

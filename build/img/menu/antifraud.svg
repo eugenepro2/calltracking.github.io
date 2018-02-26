@@ -1,0 +1,10 @@
+<svg width="28" height="32" viewBox="0 0 28 32" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        calltouch_antifraud-32
+    </title>
+    <g fill-rule="nonzero" fill="none">
+        <path d="M14 7C6.268 7 0 13.397 0 21.289c0 2.725.749 5.272 2.046 7.439L14.008 32l11.943-3.267A14.44 14.44 0 0 0 28 21.289C28 13.397 21.732 7 14 7zM5 26v-4.145L12 26H5zm18 0h-7.177L23 21.855V26z" fill="#1EB0CD"/>
+        <path fill="#FFF" d="M0 0l5.889 5.889L0 11.777z"/>
+        <path fill="#FFF" d="M28 0l-5.831 5.831L28 11.661z"/>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+.breadcrumbs
+  padding: 25px 0
+  a
+    color: $topaz
+    font-size: 14px
+    text-decoration: none
+    position: relative
+    padding-right: 20px
+    &:hover
+      text-decoration: underline
+    &:before
+      content: $icon-arrow-down
+      font-family: "iconfont"
+      font-size: 5px
+      display: inline-block
+      position: absolute
+      right: 5px
+      top: 50%
+      transform: translateY(-50%) rotate(-90deg)
+    &:last-child
+      color: $cool-grey-two
+      pointer-events: none
+      &:before
+        content: none

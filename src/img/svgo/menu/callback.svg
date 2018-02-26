@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>calltouch_callback-32</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="calltouch_calltracking+product_dropdown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-377.000000, -278.000000)">
+        <g id="product_menu_dropdow" transform="translate(112.000000, 140.000000)" fill-rule="nonzero">
+            <g id="calltouch_callback-32" transform="translate(265.000000, 138.000000)">
+                <path d="M23.898,4.1 C18.79,-1.009 10.715,-1.343 5.217,3.097 L10.815,8.695 L15.427,4.083 L23.916,12.572 L19.304,17.183 L24.902,22.781 C29.341,17.283 29.007,9.208 23.898,4.1 Z" id="Shape" fill="#1EB0CD"></path>
+                <path d="M12.571,23.916 L4.082,15.428 L8.694,10.816 L3.096,5.218 C-1.343,10.715 -1.009,18.79 4.1,23.898 C9.209,29.006 17.283,29.34 22.781,24.901 L17.183,19.303 L12.571,23.916 Z" id="Shape" fill="#FFFFFF"></path>
+                <polygon id="Shape" fill="#1EB0CD" points="18 14 15 14 15 9 10 14 13 14 13 19"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="calltouch_calltracking_partners_dropdown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1003.000000, -107.000000)">
+        <g id="header" fill="#1EB0CD" fill-rule="nonzero">
+            <path d="M1011,107 C1006.5816,107 1003,110.5816 1003,115 C1003,119.4184 1006.5816,123 1011,123 C1015.4176,123 1019,119.4176 1019,115 C1019,110.5824 1015.4176,107 1011,107 Z M1012.1024,115.52 L1012.6,119 L1009.4,119 L1009.8976,115.52 C1009.1296,115.1192 1008.6,114.3256 1008.6,113.4 C1008.6,112.0752 1009.6752,111 1011,111 C1012.3248,111 1013.4,112.0752 1013.4,113.4 C1013.4,114.3256 1012.8704,115.1192 1012.1024,115.52 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

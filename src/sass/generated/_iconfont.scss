@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('../fonts/iconfont.eot');
+  src: url('../fonts/iconfont.eot?#iefix') format('eot'),
+    url('../fonts/iconfont.woff2') format('woff2'),
+    url('../fonts/iconfont.woff') format('woff'),
+    url('../fonts/iconfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+$icon-albato: "\EA01";
+$icon-arrow-down: "\EA02";
+$icon-facebook: "\EA03";
+$icon-login: "\EA04";
+$icon-ok: "\EA05";
+$icon-phone: "\EA06";
+$icon-registration: "\EA07";
+$icon-search: "\EA08";
+$icon-vk: "\EA09";
+$icon-youtube: "\EA0A";
+
+
+%icon {
+  font-family: "iconfont";
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: auto;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon {
+  @extend %icon;
+  display: inline-block;
+}
+
+.icon-albato:before { content: $icon-albato; }
+.icon-arrow-down:before { content: $icon-arrow-down; }
+.icon-facebook:before { content: $icon-facebook; }
+.icon-login:before { content: $icon-login; }
+.icon-ok:before { content: $icon-ok; }
+.icon-phone:before { content: $icon-phone; }
+.icon-registration:before { content: $icon-registration; }
+.icon-search:before { content: $icon-search; }
+.icon-vk:before { content: $icon-vk; }
+.icon-youtube:before { content: $icon-youtube; }

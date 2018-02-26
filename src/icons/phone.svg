@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="calltouch_calltracking" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1115.000000, -27.000000)" opacity="0.5">
+        <g id="header" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="call" transform="translate(978.000000, 27.000000)">
+                <path d="M145,0 C140.5824,0 137,3.5824 137,8 C137,12.4176 140.5816,16 145,16 C149.4168,16 153,12.4176 153,8 C153,3.5824 149.4176,0 145,0 Z M149.0568,12.5312 L146.688,12.5312 L146.688,12.5184 C143.6104,12.3952 141.1352,9.92 141.0144,6.844 L141.0016,6.844 L141.0008,4.4752 C141.0016,4.2136 141.2136,4.0016 141.4752,4 L143.3704,4.0008 C143.632,4.0016 143.8448,4.2136 143.844,4.4744 L143.8448,6.3712 C143.8448,6.6328 143.632,6.8448 143.3712,6.8448 L142.436,6.8448 C142.5552,9.136 144.3944,10.9768 146.688,11.0968 L146.6872,10.1616 C146.6872,9.8992 146.8992,9.6864 147.1624,9.6864 L149.0576,9.6872 C149.3192,9.6872 149.5304,9.8992 149.5304,10.16 L149.532,12.056 C149.5304,12.3176 149.3184,12.5304 149.0568,12.5312 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
